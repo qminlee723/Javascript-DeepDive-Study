@@ -61,7 +61,6 @@
 ## 👥 Members
 - [박수진](https://github.com/s0ojin)
 - [양나원](https://github.com/ynawhocodes)
-- [옥주희](https://github.com/jooheeok)
 - [이규민](https://github.com/qminlee723)
     
 ## ✏️ Study Rules
