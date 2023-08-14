@@ -62,16 +62,14 @@ const [e, f = 10, g = 3] = [1, 2];
 console.log(e, f, g); // 1 2 3 
 ```
 
-- 배열 디스트럭처링 할당은 배열과 같은 이터러블에서 필요한 요소만 추출해서 변수에 할당하고 싶을 때 유용
-
-
+- 변수에 기본값을 설정할 수 있음
 
 ```javascript
-function parseURL(url = '') {
-  const parseURL = url.match(/^(\w+):WV/([^/]+)\/(.*)$/)));
-  console.log(parsedURL)
-}
+const [x, ...y] = [1, 2, 3];
+console.log(x, y); // 1 [ 2,3 ]
 ```
+
+- Rest 요소 사용가능 
 
 
 
